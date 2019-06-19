@@ -1,0 +1,43 @@
+body{
+    background-image: url("../image/background-texture-2110724__340.jpg");
+}
+#card {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+#fundoo {
+    margin-left: 40%;;
+    color: brown;
+}
+
+#register {
+    margin-left: 44%;
+    color: blue;
+}
+
+.input-group-prepend {
+    margin-left: 10%;
+}
+
+.form-control {
+    margin-right: 10%;
+}
+
+#registerbtn {
+    margin-left: 44%;
+}
+input.error {
+    border: 1px dotted red;
+}
+label.error{
+    width: 100%;
+    color: red;
+    font-style: italic;
+    margin-left: 120px;
+    margin-bottom: 5px;
+}
+label{
+    width: 100px;
+}
